@@ -1,5 +1,5 @@
 # BruteForceCloud
-A brute force client-server project.
+A WPA brute force client-server project.
 1. client side using linux machine with airmon tools to capture WPA handshake, 
 2. upload the pcap file to a Windows FTP server,
 3. Windows server side uses Hashcat to brute force the password,
